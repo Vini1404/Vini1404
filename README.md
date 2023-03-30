@@ -1,6 +1,8 @@
-## Oi! (Hi!) Eu me chamo Marcus Vinicius! (My name is Marcus Vinicius!) Bem vindo(a)! (Welcome!)
+## Olá! Eu me chamo Marcus Vinicius! <br>Seja Bem vindo(a)!
 
   <a href="https://github.com/Vini1404">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini1404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1404&layout=compact&langs_count=7&theme=dracula"/>
   
 <div>
