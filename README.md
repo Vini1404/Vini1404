@@ -45,4 +45,4 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Vini1404/Vini1404/output/github-contribution-grid-snake.svg)
