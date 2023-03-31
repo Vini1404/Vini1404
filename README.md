@@ -23,12 +23,10 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 
 ##
 <div>
-  <a href="https://github.com/Vini1404">
-    
-[![card](https://github-readme-stats.vercel.app/api?username=Vini1404&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1404&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-  </a>
+  
+<a href="https://github.com/Vini1404">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vini1404&show_icons=true&theme=midnight-purple)</a>
+<a href="https://github.com/Vini1404?tab=repositories">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1404&layout=compact&theme=midnight-purple)</a>
+  
 </div>
 
 <div>
