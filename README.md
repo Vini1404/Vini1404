@@ -1,4 +1,4 @@
-##Olá! sou o Marcus Vinicius, Programador e Designer Gráfico
+## Olá! sou o Marcus Vinicius, Programador e Designer Gráfico
 
 Sou um programador Full-Stack com 18 anos de idade e atualmente estou cursando o Técnico em Análise e Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.
 Meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou sempre aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.
