@@ -1,5 +1,5 @@
 # Olá! sou o Marcus Vinicius 👋🏻, Desenvolvedor Full Stack
-Sou um programador Full-Stack com 18 anos de idade e atualmente estou cursando o Técnico em Análise e Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.
+Sou um programador Full-Stack com 19 anos de idade e atualmente formado no Técnico em Análise e Desenvolvimento de Sistemas na Etec Prof. Basilides de Godoy.
 Meu objetivo é criar soluções criativas e eficientes que atendam às necessidades dos usuários e clientes, sempre buscando a excelência na qualidade do código e além disso, estou sempre aberto a novas oportunidades e práticas que possam aprimorar meu conhecimento e experiência.
 
 <div style="display: inline_block">
