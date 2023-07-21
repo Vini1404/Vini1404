@@ -33,7 +33,3 @@ Meu objetivo é criar soluções criativas e eficientes que atendam às necessid
 <a href="https://github.com/Vini1404?tab=repositories">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1404&layout=compact&theme=midnight-purple)</a>
 
 </div>
-
-##
-
-  ![Snake animation](https://raw.githubusercontent.com/Vini1404/Vini1404/output/github-contribution-grid-snake.svg)
